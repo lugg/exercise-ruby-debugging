@@ -1,5 +1,6 @@
 Geocoder.configure(
-  timeout: 3,                 # geocoding service timeout (secs)
-  lookup: :google,            # name of geocoding service (symbol)
-  language: :en,              # ISO-639 language code
+  timeout: 3,
+  lookup: :google,
+  api_key: "AIzaSyAGS5cUXk6b6-hKnzx-XU-cKWd1Fslm_Ak",
+  language: :en,
 )
